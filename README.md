@@ -20,3 +20,7 @@ It works with Python 2.7.
 - pylast https://code.google.com/p/pylast/
 - lda https://github.com/shuyo/iir/tree/master/lda
 - numpy
+
+## Licence
+
+BSD license.
