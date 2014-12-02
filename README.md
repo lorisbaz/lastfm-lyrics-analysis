@@ -1,7 +1,7 @@
 lastfm-lyrics-analysis
 ======================
 
-Inspired by the work done by karpathy for organizing the papers by topics I created a script that takes someone's most-listened songs in lastfm and clusters the lyrics using LDA.
+Inspired by the work done by [karpathy](https://github.com/karpathy/nipspreview) for organizing the papers by topics I created a script that takes someone's most-listened songs in lastfm and clusters the lyrics using LDA.
 It works with Python 2.7.
 
 
