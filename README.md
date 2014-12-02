@@ -9,7 +9,7 @@ It works with Python 2.7.
 
 1. Install pylast from https://code.google.com/p/pylast/
 2. Get the dev keys from lastfm: http://www.lastfm.it/api/account/create
-3. Copy the API key and the API secret in the `API_INFO.txt` file (two separate rows)
+3. Copy the API key and the API secret in the `API_INFO.txt` file (two separate lines)
 4. Open `main_track_lyrics_analysis.py` and replace the username with yours (line 16)
 5. Run `python2 main_track_lyrics_analysis.py` and look at the results in `songsnice.html`
 
